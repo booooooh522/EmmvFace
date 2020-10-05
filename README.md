@@ -16,6 +16,7 @@ iPhoneを顔の正面に持ってきた状態でcalibrationボタンを押しま
 1. iPhoneのブラウズアプリを起動します。
 2. EmmvFace フォルダ直下にVRMファイルをコピーします。
 3. Emmv Face アプリを再起動することで、アバター選択画面で使いたいアバターを選択できるようになります。
+
 iTunesなどでもVRMを追加可能です。
 
 ### Emmv Studio との連携
