@@ -38,8 +38,6 @@ The acquired face and facial expression tracking information is used to reflect 
 The tracking information will be discarded after it is applied to the avatar and will not be retained.
 It will not be used for any other purpose or sent to a third party without permission.
 
-Translated with www.DeepL.com/Translator (free version)
-
 #### Camera information
 This application uses camera information to acquire position and posture data of the device being used.
 It will not be used for any other purpose or sent to a third party without permission.
