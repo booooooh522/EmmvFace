@@ -6,13 +6,14 @@
 ### 1. 情報の取得
 
 #### 顔・表情トラッキング情報
-当アプリは、利用者の顔の位置及び表情を取得するためにTrueDepthAPIを使用します。
+当アプリは、利用者の顔の位置及び表情を取得するために、Appleが提供するTrueDepthAPIを使用します。
 取得した顔、表情のトラッキング情報は、当アプリまたは連携アプリケーションに表示されるアバターの動き、表情の反映のために使用されます。
+また使用された、顔、表情のトラッキング情報はアバターへの反映後は破棄され、保持され続けることはありません。
 それ以外の目的での使用や、第三者への無断での情報送信は一切行われません。
 
 #### カメラ情報
 当アプリは、使用端末の位置姿勢データの取得のため、カメラ情報を使用します。
-それ以外の目的での使用や、第三者への無断での情報送信は一切行われません。
+それ以外の目的での使用や、第三者への無断での提供、共有は一切行われません。
 
 #### 端末内の3Dモデルデータ
 当アプリは、アプリ内に表示するアバターの読み込みのために、端末内の3Dモデルデータの取得を行います。
@@ -32,9 +33,12 @@ The following privacy policy applies to Emmv Face, developed by Honoki (@boooooo
 ### 1. Collection of Information.
 
 #### Face and facial expression tracking information
-This application uses the TrueDepth API to acquire the position and expression of the user's face.
-The acquired face and facial expression tracking information is used to reflect the movements and expressions of the avatar displayed in this application or the linked application.
+This application uses the TrueDepth API provided by Apple to obtain the position and expression of the user's face.
+The acquired face and facial expression tracking information is used to reflect the movement and expression of the avatar displayed in this application or the linked application.
+The tracking information will be discarded after it is applied to the avatar and will not be retained.
 It will not be used for any other purpose or sent to a third party without permission.
+
+Translated with www.DeepL.com/Translator (free version)
 
 #### Camera information
 This application uses camera information to acquire position and posture data of the device being used.
