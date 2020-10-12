@@ -1,22 +1,53 @@
 # Emmv Face 
 
-## Privacy Policy
+## プライバシーポリシー
+ほーのき（@booooooh522）が開発するEmmv Face（以下、当アプリ）には以下のプライバシーポリシーが適用されます。
 
-### 1. 利用者情報の取得
+### 1. 情報の取得
 
-本アプリは以下の利用目的のため、以下の情報を取得します。
+#### 顔・表情トラッキング情報
+当アプリは、利用者の顔の位置及び表情を取得するためにTrueDepthAPIを使用します。
+取得した顔、表情のトラッキング情報は、当アプリまたは連携アプリケーションに表示されるアバターの動き、表情の反映のために使用されます。
+それ以外の目的での使用や、第三者への無断での情報送信は一切行われません。
 
-| 利用目的 | 取得する情報 |
-| ---- | ---- |
-| フェイストラッキング | カメラで取得した画像、表情データ |
-|ポジショントラッキング|カメラで取得した画像、加速度センサデータ|
-|アバターの読み込み|端末内の3Dモデルデータ|
+#### カメラ情報
+当アプリは、使用端末の位置姿勢データの取得のため、カメラ情報を使用します。
+それ以外の目的での使用や、第三者への無断での情報送信は一切行われません。
+
+#### 端末内の3Dモデルデータ
+当アプリは、アプリ内に表示するアバターの読み込みのために、端末内の3Dモデルデータの取得を行います。
+それ以外の目的での使用や、第三者への無断での情報送信は一切行われません。
+
+#### 利用状況
+当アプリは、継続的な改善のために、個人を特定できない形での利用状況（利用時間、端末のモデル、OSバージョン等）の収集を行います。
+AppleID、電話番号、決済情報は収集する情報に含まれません。
 
 ### 2. 同意
+当アプリは、本プライバシーポリシーを確認いただき、ご理解いただいたうえでご利用ください。
 
-本アプリケーションは、本プライバシーポリシーを確認いただき、ご理解いただいたうえでご利用ください。
 
-### 3. 外部送信
+## Privacy Policy.
+The following privacy policy applies to Emmv Face, developed by Honoki (@booooooh522).
 
-本アプリケーションでは、1に示した情報を第三者に自動的に外部送信することはありません。
+### 1. Collection of Information.
+
+#### Face and facial expression tracking information
+This application uses the TrueDepth API to acquire the position and expression of the user's face.
+The acquired face and facial expression tracking information is used to reflect the movements and expressions of the avatar displayed in this application or the linked application.
+It will not be used for any other purpose or sent to a third party without permission.
+
+#### Camera information
+This application uses camera information to acquire position and posture data of the device being used.
+It will not be used for any other purpose or sent to a third party without permission.
+
+#### 3D model data in the device
+This application acquires 3D model data on the device for loading avatars to be displayed in the app.
+It will not be used for any other purpose or transmitted to a third party without permission.
+
+#### Usage
+This application collects non-personally identifiable information about your usage (time of use, device model, OS version, etc.) for continuous improvement.
+Apple IDs, phone numbers and payment information are not included in the information collected.
+
+### 2. Consent.
+Please read and understand this Privacy Policy before using this application.
 
